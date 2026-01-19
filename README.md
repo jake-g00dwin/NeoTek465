@@ -1,8 +1,8 @@
 # NeoTek465
-A reimagining of the Tektronix 465 Oscilloscope
+A re imagining of the Tektronix 465 Oscilloscope
 
 
-The project is baoken into two parts, the neo version of the schematics and
+The project is broken into two parts, the neo version of the schematics and
 PCB files and the original version.
 
 The original version is my best attempt to create a 1 for 1 replica of the 
@@ -20,7 +20,7 @@ original boards and schematics.
     - Improved EMI through shielding and multi layered PCBs.
     - Standardized connectors and wiring harness.
     - Lamps --> LEDs.
-- New Low noise temperture control system.
+- New Low noise temperature control system.
 - Transparent showcase shell.
 
 ## Roadmap
@@ -29,7 +29,8 @@ original boards and schematics.
 
 - [ ] Recreate Original Schematics:
 - [ ] Recreate Original PCBs:
-
+- [ ] Capture Pictures of original
+- [ ] Capture components values via measurements from multiple samples. 
 
 **NeoTek465:**
 
