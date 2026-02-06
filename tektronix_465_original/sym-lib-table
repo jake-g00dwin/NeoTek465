@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "techtronix_lib")(type "KiCad")(uri "/media/ronin/000_jake/Documents/projects/kicad/NeoTek465/libs/techtronix_lib.kicad_sym")(options "")(descr ""))
+)
